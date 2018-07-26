@@ -1,0 +1,542 @@
+2018-05-25 12:55:25,092 [MainThread  ] [INFO ]  App ready
+
+2018-05-25 12:55:25,092 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-05-25 12:55:25,092 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-05-25 12:55:26,508 [MainThread  ] [INFO ]  App ready
+
+2018-05-25 12:55:26,508 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-05-25 12:55:26,509 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-05-25 12:58:10,559 [MainThread  ] [INFO ]  App ready
+
+2018-05-25 12:58:10,559 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-05-25 12:58:10,559 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-05-25 12:58:11,212 [MainThread  ] [INFO ]  App ready
+
+2018-05-25 12:58:11,212 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-05-25 12:58:11,212 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-05-25 13:01:01,194 [MainThread  ] [INFO ]  App ready
+
+2018-05-25 13:01:01,194 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-05-25 13:01:01,195 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-05-25 13:01:02,280 [MainThread  ] [INFO ]  Created chatbot database
+2018-05-25 13:01:02,299 [MainThread  ] [INFO ]  Training small talk
+2018-05-25 13:10:02,883 [MainThread  ] [INFO ]  App ready
+
+2018-05-25 13:10:02,883 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-05-25 13:10:02,883 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-05-25 13:10:03,635 [MainThread  ] [INFO ]  Created chatbot database
+2018-05-25 13:10:03,641 [MainThread  ] [INFO ]  Training small talk
+2018-05-25 13:19:47,782 [Thread-1    ] [WARNI]  Not Found: /hello
+2018-05-25 13:19:47,833 [Thread-3    ] [WARNI]  Not Found: /favicon.ico
+2018-05-25 13:19:59,596 [Thread-6    ] [INFO ]  User input -->hello
+2018-05-25 13:19:59,596 [Thread-6    ] [INFO ]  Smalltalk input : hello
+2018-05-25 13:19:59,660 [Thread-6    ] [INFO ]  Received input statement: hello
+2018-05-25 13:19:59,673 [Thread-6    ] [INFO ]  "hello" is a known statement
+2018-05-25 13:20:04,832 [Thread-6    ] [INFO ]  Using "hello" as a close match to "hello"
+2018-05-25 13:20:04,849 [Thread-6    ] [INFO ]  Selecting response from 4 optimal responses.
+2018-05-25 13:20:04,850 [Thread-6    ] [INFO ]  Selecting a response from list of 4 options.
+2018-05-25 13:20:04,850 [Thread-6    ] [INFO ]  Response selected. Using "Hey!"
+2018-05-25 13:20:04,850 [Thread-6    ] [INFO ]  BestMatch selected "Hey!" as a response with a confidence of 1.0
+2018-05-25 13:20:09,996 [Thread-6    ] [INFO ]  Selecting first response from list of 1 options.
+2018-05-25 13:20:09,996 [Thread-6    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-05-25 13:20:10,000 [Thread-6    ] [INFO ]  NoKnowledgeAdapter selected "hello" as a response with a confidence of 0
+2018-05-25 13:20:10,008 [Thread-6    ] [INFO ]  Smalltalk response : Hey!
+2018-05-25 13:20:10,008 [Thread-6    ] [INFO ]  
+Response time --->10.410854816436768
+2018-05-25 13:20:10,008 [Thread-6    ] [INFO ]  Hey!
+2018-05-25 13:20:20,399 [Thread-8    ] [INFO ]  User input -->how are you
+2018-05-25 13:20:20,399 [Thread-8    ] [INFO ]  Smalltalk input : how are you
+2018-05-25 13:20:20,399 [Thread-8    ] [INFO ]  Received input statement: how are you
+2018-05-25 13:20:20,405 [Thread-8    ] [INFO ]  "how are you" is a known statement
+2018-05-25 13:20:25,524 [Thread-8    ] [INFO ]  Using "how are you" as a close match to "how are you"
+2018-05-25 13:20:25,540 [Thread-8    ] [INFO ]  Selecting response from 3 optimal responses.
+2018-05-25 13:20:25,540 [Thread-8    ] [INFO ]  Selecting a response from list of 3 options.
+2018-05-25 13:20:25,540 [Thread-8    ] [INFO ]  Response selected. Using "Wonderful as always. Thanks for asking."
+2018-05-25 13:20:25,540 [Thread-8    ] [INFO ]  BestMatch selected "Wonderful as always. Thanks for asking." as a response with a confidence of 1.0
+2018-05-25 13:20:30,732 [Thread-8    ] [INFO ]  Selecting first response from list of 1 options.
+2018-05-25 13:20:30,732 [Thread-8    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-05-25 13:20:30,736 [Thread-8    ] [INFO ]  NoKnowledgeAdapter selected "how are you" as a response with a confidence of 0
+2018-05-25 13:20:30,743 [Thread-8    ] [INFO ]  Smalltalk response : Wonderful as always. Thanks for asking.
+2018-05-25 13:20:30,743 [Thread-8    ] [INFO ]  
+Response time --->10.343958377838135
+2018-05-25 13:20:30,743 [Thread-8    ] [INFO ]  Wonderful as always. Thanks for asking.
+2018-05-25 13:21:01,269 [Thread-9    ] [INFO ]  User input -->thanks
+2018-05-25 13:21:01,269 [Thread-9    ] [INFO ]  Smalltalk input : thanks
+2018-05-25 13:21:01,269 [Thread-9    ] [INFO ]  Received input statement: thanks
+2018-05-25 13:21:01,274 [Thread-9    ] [INFO ]  "thanks" is a known statement
+2018-05-25 13:21:06,419 [Thread-9    ] [INFO ]  Using "thanks" as a close match to "thanks"
+2018-05-25 13:21:06,431 [Thread-9    ] [INFO ]  Selecting response from 2 optimal responses.
+2018-05-25 13:21:06,431 [Thread-9    ] [INFO ]  Selecting a response from list of 2 options.
+2018-05-25 13:21:06,431 [Thread-9    ] [INFO ]  Response selected. Using "Anytime. That's what I'm here for."
+2018-05-25 13:21:06,431 [Thread-9    ] [INFO ]  BestMatch selected "Anytime. That's what I'm here for." as a response with a confidence of 1.0
+2018-05-25 13:21:11,480 [Thread-9    ] [INFO ]  Selecting first response from list of 1 options.
+2018-05-25 13:21:11,480 [Thread-9    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-05-25 13:21:11,483 [Thread-9    ] [INFO ]  NoKnowledgeAdapter selected "thanks" as a response with a confidence of 0
+2018-05-25 13:21:11,490 [Thread-9    ] [INFO ]  Smalltalk response : Anytime. That's what I'm here for.
+2018-05-25 13:21:11,490 [Thread-9    ] [INFO ]  
+Response time --->10.220482349395752
+2018-05-25 13:21:11,490 [Thread-9    ] [INFO ]  Anytime. That's what I'm here for.
+2018-05-25 13:21:25,606 [Thread-11   ] [INFO ]  User input -->may i know your name
+2018-05-25 13:21:25,607 [Thread-11   ] [INFO ]  Smalltalk input : may i know your name
+2018-05-25 13:21:25,607 [Thread-11   ] [INFO ]  Received input statement: may i know your name
+2018-05-25 13:21:25,610 [Thread-11   ] [INFO ]  "may i know your name" is not a known statement
+2018-05-25 13:21:30,771 [Thread-11   ] [INFO ]  Using "may i know your name" as a close match to "i'd like to know your age"
+2018-05-25 13:21:30,777 [Thread-11   ] [INFO ]  Selecting response from 1 optimal responses.
+2018-05-25 13:21:30,777 [Thread-11   ] [INFO ]  Selecting a response from list of 1 options.
+2018-05-25 13:21:30,777 [Thread-11   ] [INFO ]  Response selected. Using "Not too old, but wise beyond my age."
+2018-05-25 13:21:30,777 [Thread-11   ] [INFO ]  BestMatch selected "Not too old, but wise beyond my age." as a response with a confidence of 0.67
+2018-05-25 13:21:35,897 [Thread-11   ] [INFO ]  Selecting first response from list of 1 options.
+2018-05-25 13:21:35,897 [Thread-11   ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 1
+2018-05-25 13:21:35,901 [Thread-11   ] [INFO ]  NoKnowledgeAdapter selected "may i know your name" as a response with a confidence of 0
+2018-05-25 13:21:35,908 [Thread-11   ] [INFO ]  Smalltalk response : I am sorry, but I do not understand.
+2018-05-25 13:21:35,908 [Thread-11   ] [INFO ]  
+Response time --->10.300970315933228
+2018-05-25 13:21:35,908 [Thread-11   ] [INFO ]  I am sorry, but I do not understand.
+2018-05-25 13:22:24,601 [Thread-13   ] [INFO ]  User input -->who are you
+2018-05-25 13:22:24,601 [Thread-13   ] [INFO ]  Smalltalk input : who are you
+2018-05-25 13:22:24,601 [Thread-13   ] [INFO ]  Received input statement: who are you
+2018-05-25 13:22:24,608 [Thread-13   ] [INFO ]  "who are you" is a known statement
+2018-05-25 13:22:29,791 [Thread-13   ] [INFO ]  Using "who are you" as a close match to "who are you"
+2018-05-25 13:22:29,798 [Thread-13   ] [INFO ]  Selecting response from 1 optimal responses.
+2018-05-25 13:22:29,798 [Thread-13   ] [INFO ]  Selecting a response from list of 1 options.
+2018-05-25 13:22:29,798 [Thread-13   ] [INFO ]  Response selected. Using "I am a chatbot and I love to help."
+2018-05-25 13:22:29,798 [Thread-13   ] [INFO ]  BestMatch selected "I am a chatbot and I love to help." as a response with a confidence of 1.0
+2018-05-25 13:22:34,872 [Thread-13   ] [INFO ]  Selecting first response from list of 1 options.
+2018-05-25 13:22:34,872 [Thread-13   ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-05-25 13:22:34,875 [Thread-13   ] [INFO ]  NoKnowledgeAdapter selected "who are you" as a response with a confidence of 0
+2018-05-25 13:22:34,882 [Thread-13   ] [INFO ]  Smalltalk response : I am a chatbot and I love to help.
+2018-05-25 13:22:34,882 [Thread-13   ] [INFO ]  
+Response time --->10.280747175216675
+2018-05-25 13:22:34,882 [Thread-13   ] [INFO ]  I am a chatbot and I love to help.
+2018-05-25 13:25:55,522 [Thread-15   ] [INFO ]  User input -->i love you
+2018-05-25 13:25:55,523 [Thread-15   ] [INFO ]  Smalltalk input : i love you
+2018-05-25 13:25:55,523 [Thread-15   ] [INFO ]  Received input statement: i love you
+2018-05-25 13:25:55,526 [Thread-15   ] [INFO ]  "i love you" is not a known statement
+2018-05-25 13:26:00,687 [Thread-15   ] [INFO ]  Using "i love you" as a close match to "I love you"
+2018-05-25 13:26:00,723 [Thread-15   ] [INFO ]  Selecting response from 4 optimal responses.
+2018-05-25 13:26:00,723 [Thread-15   ] [INFO ]  Selecting a response from list of 4 options.
+2018-05-25 13:26:00,723 [Thread-15   ] [INFO ]  Response selected. Using "That's great to hear."
+2018-05-25 13:26:00,723 [Thread-15   ] [INFO ]  BestMatch selected "That's great to hear." as a response with a confidence of 1.0
+2018-05-25 13:26:05,788 [Thread-15   ] [INFO ]  Selecting first response from list of 1 options.
+2018-05-25 13:26:05,788 [Thread-15   ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-05-25 13:26:05,792 [Thread-15   ] [INFO ]  NoKnowledgeAdapter selected "i love you" as a response with a confidence of 0
+2018-05-25 13:26:05,798 [Thread-15   ] [INFO ]  Smalltalk response : That's great to hear.
+2018-05-25 13:26:05,798 [Thread-15   ] [INFO ]  
+Response time --->10.275131702423096
+2018-05-25 13:26:05,798 [Thread-15   ] [INFO ]  That's great to hear.
+2018-05-25 13:34:01,004 [Thread-17   ] [INFO ]  User input -->hey how are you doing
+2018-05-25 13:34:01,004 [Thread-17   ] [INFO ]  Smalltalk input : hey how are you doing
+2018-05-25 13:34:01,005 [Thread-17   ] [INFO ]  Received input statement: hey how are you doing
+2018-05-25 13:34:01,008 [Thread-17   ] [INFO ]  "hey how are you doing" is not a known statement
+2018-05-25 13:34:06,182 [Thread-17   ] [INFO ]  Using "hey how are you doing" as a close match to "how are you doing"
+2018-05-25 13:34:06,198 [Thread-17   ] [INFO ]  Selecting response from 3 optimal responses.
+2018-05-25 13:34:06,199 [Thread-17   ] [INFO ]  Selecting a response from list of 3 options.
+2018-05-25 13:34:06,199 [Thread-17   ] [INFO ]  Response selected. Using "Couldn't be better."
+2018-05-25 13:34:06,199 [Thread-17   ] [INFO ]  BestMatch selected "Couldn't be better." as a response with a confidence of 0.89
+2018-05-25 13:34:11,395 [Thread-17   ] [INFO ]  Selecting first response from list of 1 options.
+2018-05-25 13:34:11,396 [Thread-17   ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-05-25 13:34:11,399 [Thread-17   ] [INFO ]  NoKnowledgeAdapter selected "hey how are you doing" as a response with a confidence of 0
+2018-05-25 13:34:11,408 [Thread-17   ] [INFO ]  Smalltalk response : Couldn't be better.
+2018-05-25 13:34:11,408 [Thread-17   ] [INFO ]  
+Response time --->10.403454542160034
+2018-05-25 13:34:11,408 [Thread-17   ] [INFO ]  Couldn't be better.
+2018-05-25 13:35:08,233 [Thread-19   ] [INFO ]  User input -->hmm, what's the weather like
+2018-05-25 13:35:08,234 [Thread-19   ] [INFO ]  Smalltalk input : hmm, what's the weather like
+2018-05-25 13:35:08,234 [Thread-19   ] [INFO ]  Received input statement: hmm what s the weather like
+2018-05-25 13:35:08,236 [Thread-19   ] [INFO ]  "hmm what s the weather like" is not a known statement
+2018-05-25 13:35:13,440 [Thread-19   ] [INFO ]  Using "hmm what s the weather like" as a close match to "what was your day like"
+2018-05-25 13:35:13,456 [Thread-19   ] [INFO ]  Selecting response from 3 optimal responses.
+2018-05-25 13:35:13,456 [Thread-19   ] [INFO ]  Selecting a response from list of 3 options.
+2018-05-25 13:35:13,456 [Thread-19   ] [INFO ]  Response selected. Using "Wonderful as always. Thanks for asking."
+2018-05-25 13:35:13,457 [Thread-19   ] [INFO ]  BestMatch selected "Wonderful as always. Thanks for asking." as a response with a confidence of 0.57
+2018-05-25 13:35:18,598 [Thread-19   ] [INFO ]  Selecting first response from list of 1 options.
+2018-05-25 13:35:18,598 [Thread-19   ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 1
+2018-05-25 13:35:18,601 [Thread-19   ] [INFO ]  NoKnowledgeAdapter selected "hmm what s the weather like" as a response with a confidence of 0
+2018-05-25 13:35:18,608 [Thread-19   ] [INFO ]  Smalltalk response : I am sorry, but I do not understand.
+2018-05-25 13:35:18,608 [Thread-19   ] [INFO ]  
+Response time --->10.37409782409668
+2018-05-25 13:35:18,608 [Thread-19   ] [INFO ]  I am sorry, but I do not understand.
+2018-05-25 13:36:43,622 [Thread-21   ] [INFO ]  User input -->what's your name
+2018-05-25 13:36:43,622 [Thread-21   ] [INFO ]  Smalltalk input : what's your name
+2018-05-25 13:36:43,623 [Thread-21   ] [INFO ]  Received input statement: what s your name
+2018-05-25 13:36:43,627 [Thread-21   ] [INFO ]  "what s your name" is not a known statement
+2018-05-25 13:36:48,754 [Thread-21   ] [INFO ]  Using "what s your name" as a close match to "what's your age"
+2018-05-25 13:36:48,762 [Thread-21   ] [INFO ]  Selecting response from 1 optimal responses.
+2018-05-25 13:36:48,763 [Thread-21   ] [INFO ]  Selecting a response from list of 1 options.
+2018-05-25 13:36:48,763 [Thread-21   ] [INFO ]  Response selected. Using "Not too old, but wise beyond my age."
+2018-05-25 13:36:48,763 [Thread-21   ] [INFO ]  BestMatch selected "Not too old, but wise beyond my age." as a response with a confidence of 0.84
+2018-05-25 13:36:53,860 [Thread-21   ] [INFO ]  Selecting first response from list of 1 options.
+2018-05-25 13:36:53,860 [Thread-21   ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 1
+2018-05-25 13:36:53,864 [Thread-21   ] [INFO ]  NoKnowledgeAdapter selected "what s your name" as a response with a confidence of 0
+2018-05-25 13:36:53,870 [Thread-21   ] [INFO ]  Smalltalk response : I am sorry, but I do not understand.
+2018-05-25 13:36:53,870 [Thread-21   ] [INFO ]  
+Response time --->10.247726440429688
+2018-05-25 13:36:53,870 [Thread-21   ] [INFO ]  I am sorry, but I do not understand.
+2018-05-25 13:37:09,664 [Thread-23   ] [INFO ]  User input -->how are you doing todau
+2018-05-25 13:37:09,664 [Thread-23   ] [INFO ]  Smalltalk input : how are you doing todau
+2018-05-25 13:37:09,665 [Thread-23   ] [INFO ]  Received input statement: how are you doing todau
+2018-05-25 13:37:09,668 [Thread-23   ] [INFO ]  "how are you doing todau" is not a known statement
+2018-05-25 13:37:14,857 [Thread-23   ] [INFO ]  Using "how are you doing todau" as a close match to "how are you doing"
+2018-05-25 13:37:14,872 [Thread-23   ] [INFO ]  Selecting response from 3 optimal responses.
+2018-05-25 13:37:14,872 [Thread-23   ] [INFO ]  Selecting a response from list of 3 options.
+2018-05-25 13:37:14,872 [Thread-23   ] [INFO ]  Response selected. Using "Lovely, thanks."
+2018-05-25 13:37:14,873 [Thread-23   ] [INFO ]  BestMatch selected "Lovely, thanks." as a response with a confidence of 0.85
+2018-05-25 13:37:20,024 [Thread-23   ] [INFO ]  Selecting first response from list of 1 options.
+2018-05-25 13:37:20,025 [Thread-23   ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-05-25 13:37:20,029 [Thread-23   ] [INFO ]  NoKnowledgeAdapter selected "how are you doing todau" as a response with a confidence of 0
+2018-05-25 13:37:20,037 [Thread-23   ] [INFO ]  Smalltalk response : Lovely, thanks.
+2018-05-25 13:37:20,037 [Thread-23   ] [INFO ]  
+Response time --->10.372205972671509
+2018-05-25 13:37:20,037 [Thread-23   ] [INFO ]  Lovely, thanks.
+2018-05-25 13:37:35,693 [Thread-24   ] [INFO ]  User input -->how are you doing todau
+2018-05-25 13:37:35,693 [Thread-24   ] [INFO ]  Smalltalk input : how are you doing todau
+2018-05-25 13:37:35,693 [Thread-24   ] [INFO ]  Received input statement: how are you doing todau
+2018-05-25 13:37:35,695 [Thread-24   ] [INFO ]  "how are you doing todau" is not a known statement
+2018-05-25 13:37:40,792 [Thread-24   ] [INFO ]  Using "how are you doing todau" as a close match to "how are you doing"
+2018-05-25 13:37:40,808 [Thread-24   ] [INFO ]  Selecting response from 3 optimal responses.
+2018-05-25 13:37:40,809 [Thread-24   ] [INFO ]  Selecting a response from list of 3 options.
+2018-05-25 13:37:40,809 [Thread-24   ] [INFO ]  Response selected. Using "Lovely, thanks."
+2018-05-25 13:37:40,809 [Thread-24   ] [INFO ]  BestMatch selected "Lovely, thanks." as a response with a confidence of 0.85
+2018-05-25 13:37:45,941 [Thread-24   ] [INFO ]  Selecting first response from list of 1 options.
+2018-05-25 13:37:45,941 [Thread-24   ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-05-25 13:37:45,946 [Thread-24   ] [INFO ]  NoKnowledgeAdapter selected "how are you doing todau" as a response with a confidence of 0
+2018-05-25 13:37:45,954 [Thread-24   ] [INFO ]  Smalltalk response : Lovely, thanks.
+2018-05-25 13:37:45,955 [Thread-24   ] [INFO ]  
+Response time --->10.261255264282227
+2018-05-25 13:37:45,955 [Thread-24   ] [INFO ]  Lovely, thanks.
+2018-05-25 13:38:01,388 [Thread-26   ] [INFO ]  User input -->great, i too am doing fine
+2018-05-25 13:38:01,389 [Thread-26   ] [INFO ]  Smalltalk input : great, i too am doing fine
+2018-05-25 13:38:01,389 [Thread-26   ] [INFO ]  Received input statement: great i too am doing fine
+2018-05-25 13:38:01,392 [Thread-26   ] [INFO ]  "great i too am doing fine" is not a known statement
+2018-05-25 13:38:06,553 [Thread-26   ] [INFO ]  Using "great i too am doing fine" as a close match to "I'm doing fine"
+2018-05-25 13:38:06,563 [Thread-26   ] [INFO ]  Selecting response from 2 optimal responses.
+2018-05-25 13:38:06,563 [Thread-26   ] [INFO ]  Selecting a response from list of 2 options.
+2018-05-25 13:38:06,563 [Thread-26   ] [INFO ]  Response selected. Using "Great! Glad to hear it."
+2018-05-25 13:38:06,563 [Thread-26   ] [INFO ]  BestMatch selected "Great! Glad to hear it." as a response with a confidence of 0.67
+2018-05-25 13:38:11,722 [Thread-26   ] [INFO ]  Selecting first response from list of 1 options.
+2018-05-25 13:38:11,722 [Thread-26   ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 1
+2018-05-25 13:38:11,725 [Thread-26   ] [INFO ]  NoKnowledgeAdapter selected "great i too am doing fine" as a response with a confidence of 0
+2018-05-25 13:38:11,733 [Thread-26   ] [INFO ]  Smalltalk response : I am sorry, but I do not understand.
+2018-05-25 13:38:11,733 [Thread-26   ] [INFO ]  
+Response time --->10.344165086746216
+2018-05-25 13:38:11,733 [Thread-26   ] [INFO ]  I am sorry, but I do not understand.
+2018-06-13 05:36:42,344 [MainThread  ] [INFO ]  App ready
+
+2018-06-13 05:36:42,359 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-06-13 05:36:42,359 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-06-13 05:36:46,148 [MainThread  ] [INFO ]  Created chatbot database
+2018-06-13 05:36:46,174 [MainThread  ] [INFO ]  Training small talk
+2018-06-13 05:45:42,882 [MainThread  ] [INFO ]  App ready
+
+2018-06-13 05:45:42,883 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-06-13 05:45:42,883 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-06-13 05:45:43,586 [MainThread  ] [INFO ]  Created chatbot database
+2018-06-13 05:45:43,593 [MainThread  ] [INFO ]  Training small talk
+2018-06-13 10:22:51,783 [MainThread  ] [INFO ]  App ready
+
+2018-06-13 10:22:51,807 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-06-13 10:22:51,807 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-06-13 10:22:55,329 [MainThread  ] [INFO ]  Created chatbot database
+2018-06-13 10:22:55,348 [MainThread  ] [INFO ]  Training small talk
+2018-06-13 10:32:23,428 [MainThread  ] [INFO ]  App ready
+
+2018-06-13 10:32:23,428 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-06-13 10:32:23,428 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-06-13 10:32:24,707 [MainThread  ] [INFO ]  Created chatbot database
+2018-06-13 10:32:24,713 [MainThread  ] [INFO ]  Training small talk
+2018-06-13 10:40:22,979 [MainThread  ] [INFO ]  App ready
+
+2018-06-13 10:40:23,006 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-06-13 10:40:23,006 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-06-13 10:40:25,055 [MainThread  ] [INFO ]  Created chatbot database
+2018-06-13 10:40:25,082 [MainThread  ] [INFO ]  Training small talk
+2018-06-13 10:49:30,566 [MainThread  ] [INFO ]  App ready
+
+2018-06-13 10:49:30,590 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-06-13 10:49:30,590 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-06-13 10:49:32,414 [MainThread  ] [INFO ]  Created chatbot database
+2018-06-13 10:49:32,436 [MainThread  ] [INFO ]  Training small talk
+2018-06-13 11:01:05,052 [Thread-1    ] [INFO ]  User input -->Hi how are you 
+2018-06-13 11:01:05,087 [Thread-1    ] [INFO ]  Smalltalk input : Hi how are you 
+2018-06-13 11:01:06,146 [Thread-1    ] [INFO ]  Received input statement: Hi how are you 
+2018-06-13 11:01:06,231 [Thread-1    ] [INFO ]  "Hi how are you " is not a known statement
+2018-06-13 11:01:12,218 [Thread-1    ] [INFO ]  Using "Hi how are you" as a close match to "how are you"
+2018-06-13 11:01:12,238 [Thread-1    ] [INFO ]  Selecting response from 3 optimal responses.
+2018-06-13 11:01:12,239 [Thread-1    ] [INFO ]  Selecting a response from list of 3 options.
+2018-06-13 11:01:12,256 [Thread-1    ] [INFO ]  Response selected. Using "Couldn't be better."
+2018-06-13 11:01:12,256 [Thread-1    ] [INFO ]  BestMatch selected "Couldn't be better." as a response with a confidence of 0.88
+2018-06-13 11:01:17,550 [Thread-1    ] [INFO ]  Selecting first response from list of 1 options.
+2018-06-13 11:01:17,550 [Thread-1    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-06-13 11:01:17,553 [Thread-1    ] [INFO ]  NoKnowledgeAdapter selected "Hi how are you" as a response with a confidence of 0
+2018-06-13 11:01:17,561 [Thread-1    ] [INFO ]  Smalltalk response : Couldn't be better.
+2018-06-13 11:01:17,561 [Thread-1    ] [INFO ]  
+Response time --->12.473469734191895
+2018-06-13 11:01:17,561 [Thread-1    ] [INFO ]  Couldn't be better.
+2018-06-13 11:16:31,187 [Thread-3    ] [INFO ]  User input -->Hi how are you
+2018-06-13 11:16:31,778 [Thread-3    ] [INFO ]  Smalltalk input : Hi how are you
+2018-06-13 11:16:31,778 [Thread-3    ] [INFO ]  Received input statement: Hi how are you
+2018-06-13 11:16:32,193 [Thread-3    ] [INFO ]  "Hi how are you" is not a known statement
+2018-06-13 11:16:36,671 [Thread-3    ] [INFO ]  Using "Hi how are you" as a close match to "how are you"
+2018-06-13 11:16:36,687 [Thread-3    ] [INFO ]  Selecting response from 3 optimal responses.
+2018-06-13 11:16:36,687 [Thread-3    ] [INFO ]  Selecting a response from list of 3 options.
+2018-06-13 11:16:36,710 [Thread-3    ] [INFO ]  Response selected. Using "Couldn't be better."
+2018-06-13 11:16:36,711 [Thread-3    ] [INFO ]  BestMatch selected "Couldn't be better." as a response with a confidence of 0.88
+2018-06-13 11:16:41,297 [Thread-3    ] [INFO ]  Selecting first response from list of 1 options.
+2018-06-13 11:16:41,297 [Thread-3    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-06-13 11:16:41,300 [Thread-3    ] [INFO ]  NoKnowledgeAdapter selected "Hi how are you" as a response with a confidence of 0
+2018-06-13 11:16:41,306 [Thread-3    ] [INFO ]  Smalltalk response : Couldn't be better.
+2018-06-13 11:16:41,306 [Thread-3    ] [INFO ]  
+Response time --->9.528100967407227
+2018-06-13 11:16:41,306 [Thread-3    ] [INFO ]  Couldn't be better.
+2018-06-13 11:20:53,942 [Thread-4    ] [INFO ]  User input -->Invoice Status for 12345678
+2018-06-13 11:20:54,054 [Thread-4    ] [INFO ]  Smalltalk input : Invoice Status for 12345678
+2018-06-13 11:20:54,054 [Thread-4    ] [INFO ]  Received input statement: Invoice Status for 12345678
+2018-06-13 11:20:54,501 [Thread-4    ] [INFO ]  "Invoice Status for 12345678" is not a known statement
+2018-06-13 11:20:58,889 [Thread-4    ] [INFO ]  Using "Invoice Status for 12345678" as a close match to "I know that's right"
+2018-06-13 11:20:58,920 [Thread-4    ] [INFO ]  Selecting response from 2 optimal responses.
+2018-06-13 11:20:58,920 [Thread-4    ] [INFO ]  Selecting a response from list of 2 options.
+2018-06-13 11:20:58,920 [Thread-4    ] [INFO ]  Response selected. Using "Of course I am."
+2018-06-13 11:20:58,920 [Thread-4    ] [INFO ]  BestMatch selected "Of course I am." as a response with a confidence of 0.43
+2018-06-13 11:21:03,497 [Thread-4    ] [INFO ]  Selecting first response from list of 1 options.
+2018-06-13 11:21:03,498 [Thread-4    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 1
+2018-06-13 11:21:03,501 [Thread-4    ] [INFO ]  NoKnowledgeAdapter selected "Invoice Status for 12345678" as a response with a confidence of 0
+2018-06-13 11:21:03,508 [Thread-4    ] [INFO ]  Smalltalk response : I am sorry, but I do not understand.
+2018-06-13 11:21:03,508 [Thread-4    ] [INFO ]  
+Response time --->9.453702688217163
+2018-06-13 11:21:03,508 [Thread-4    ] [INFO ]  I am sorry, but I do not understand.
+2018-06-13 11:23:02,380 [Thread-5    ] [INFO ]  User input -->Hi how are you
+2018-06-13 11:23:02,769 [Thread-5    ] [INFO ]  Smalltalk input : Hi how are you
+2018-06-13 11:23:02,770 [Thread-5    ] [INFO ]  Received input statement: Hi how are you
+2018-06-13 11:23:02,772 [Thread-5    ] [INFO ]  "Hi how are you" is not a known statement
+2018-06-13 11:23:07,039 [Thread-5    ] [INFO ]  Using "Hi how are you" as a close match to "how are you"
+2018-06-13 11:23:07,055 [Thread-5    ] [INFO ]  Selecting response from 3 optimal responses.
+2018-06-13 11:23:07,055 [Thread-5    ] [INFO ]  Selecting a response from list of 3 options.
+2018-06-13 11:23:07,056 [Thread-5    ] [INFO ]  Response selected. Using "Couldn't be better."
+2018-06-13 11:23:07,056 [Thread-5    ] [INFO ]  BestMatch selected "Couldn't be better." as a response with a confidence of 0.88
+2018-06-13 11:23:11,641 [Thread-5    ] [INFO ]  Selecting first response from list of 1 options.
+2018-06-13 11:23:11,642 [Thread-5    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-06-13 11:23:11,645 [Thread-5    ] [INFO ]  NoKnowledgeAdapter selected "Hi how are you" as a response with a confidence of 0
+2018-06-13 11:23:11,650 [Thread-5    ] [INFO ]  Smalltalk response : Couldn't be better.
+2018-06-13 11:23:11,650 [Thread-5    ] [INFO ]  
+Response time --->8.88078784942627
+2018-06-13 11:23:11,650 [Thread-5    ] [INFO ]  Couldn't be better.
+2018-06-13 11:25:03,294 [Thread-6    ] [INFO ]  User input -->hi how are you
+2018-06-13 11:25:03,338 [Thread-6    ] [INFO ]  Smalltalk input : hi how are you
+2018-06-13 11:25:03,339 [Thread-6    ] [INFO ]  Received input statement: hi how are you
+2018-06-13 11:25:04,422 [Thread-6    ] [INFO ]  "hi how are you" is not a known statement
+2018-06-13 11:25:08,804 [Thread-6    ] [INFO ]  Using "hi how are you" as a close match to "how are you"
+2018-06-13 11:25:08,823 [Thread-6    ] [INFO ]  Selecting response from 3 optimal responses.
+2018-06-13 11:25:08,823 [Thread-6    ] [INFO ]  Selecting a response from list of 3 options.
+2018-06-13 11:25:08,823 [Thread-6    ] [INFO ]  Response selected. Using "Couldn't be better."
+2018-06-13 11:25:08,823 [Thread-6    ] [INFO ]  BestMatch selected "Couldn't be better." as a response with a confidence of 0.88
+2018-06-13 11:25:13,464 [Thread-6    ] [INFO ]  Selecting first response from list of 1 options.
+2018-06-13 11:25:13,464 [Thread-6    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-06-13 11:25:13,467 [Thread-6    ] [INFO ]  NoKnowledgeAdapter selected "hi how are you" as a response with a confidence of 0
+2018-06-13 11:25:13,473 [Thread-6    ] [INFO ]  Smalltalk response : Couldn't be better.
+2018-06-13 11:25:13,473 [Thread-6    ] [INFO ]  
+Response time --->10.134512186050415
+2018-06-13 11:25:13,473 [Thread-6    ] [INFO ]  Couldn't be better.
+2018-06-13 11:26:12,111 [Thread-7    ] [INFO ]  User input -->Hi how are you
+2018-06-13 11:26:12,148 [Thread-7    ] [INFO ]  Smalltalk input : Hi how are you
+2018-06-13 11:26:12,148 [Thread-7    ] [INFO ]  Received input statement: Hi how are you
+2018-06-13 11:26:12,825 [Thread-7    ] [INFO ]  "Hi how are you" is not a known statement
+2018-06-13 11:26:17,049 [Thread-7    ] [INFO ]  Using "Hi how are you" as a close match to "how are you"
+2018-06-13 11:26:17,060 [Thread-7    ] [INFO ]  Selecting response from 3 optimal responses.
+2018-06-13 11:26:17,060 [Thread-7    ] [INFO ]  Selecting a response from list of 3 options.
+2018-06-13 11:26:17,160 [Thread-7    ] [INFO ]  Response selected. Using "Lovely, thanks."
+2018-06-13 11:26:17,160 [Thread-7    ] [INFO ]  BestMatch selected "Lovely, thanks." as a response with a confidence of 0.88
+2018-06-13 11:26:21,719 [Thread-7    ] [INFO ]  Selecting first response from list of 1 options.
+2018-06-13 11:26:21,719 [Thread-7    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-06-13 11:26:21,722 [Thread-7    ] [INFO ]  NoKnowledgeAdapter selected "Hi how are you" as a response with a confidence of 0
+2018-06-13 11:26:21,756 [Thread-7    ] [INFO ]  Smalltalk response : Lovely, thanks.
+2018-06-13 11:26:21,756 [Thread-7    ] [INFO ]  
+Response time --->9.60781192779541
+2018-06-13 11:26:21,756 [Thread-7    ] [INFO ]  Lovely, thanks.
+2018-06-13 11:49:07,536 [Thread-8    ] [INFO ]  User input -->I love you Please marry me
+2018-06-13 11:49:07,595 [Thread-8    ] [INFO ]  Smalltalk input : I love you Please marry me
+2018-06-13 11:49:07,595 [Thread-8    ] [INFO ]  Received input statement: I love you Please marry me
+2018-06-13 11:49:08,434 [Thread-8    ] [INFO ]  "I love you Please marry me" is not a known statement
+2018-06-13 11:49:13,222 [Thread-8    ] [INFO ]  Using "I love you Please marry me" as a close match to "I love you marry me"
+2018-06-13 11:49:13,229 [Thread-8    ] [INFO ]  Selecting response from 2 optimal responses.
+2018-06-13 11:49:13,229 [Thread-8    ] [INFO ]  Selecting a response from list of 2 options.
+2018-06-13 11:49:13,293 [Thread-8    ] [INFO ]  Response selected. Using "I know you can't mean that, but I'm flattered all the same."
+2018-06-13 11:49:13,294 [Thread-8    ] [INFO ]  BestMatch selected "I know you can't mean that, but I'm flattered all the same." as a response with a confidence of 0.84
+2018-06-13 11:49:17,937 [Thread-8    ] [INFO ]  Selecting first response from list of 1 options.
+2018-06-13 11:49:17,937 [Thread-8    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 1
+2018-06-13 11:49:17,940 [Thread-8    ] [INFO ]  NoKnowledgeAdapter selected "I love you Please marry me" as a response with a confidence of 0
+2018-06-13 11:49:17,947 [Thread-8    ] [INFO ]  Smalltalk response : I am sorry, but I do not understand.
+2018-06-13 11:49:17,947 [Thread-8    ] [INFO ]  
+Response time --->10.35192060470581
+2018-06-13 11:49:17,947 [Thread-8    ] [INFO ]  I am sorry, but I do not understand.
+2018-07-26 12:05:26,670 [MainThread  ] [INFO ]  App ready
+
+2018-07-26 12:05:26,692 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:05:26,693 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:05:27,834 [MainThread  ] [INFO ]  App ready
+
+2018-07-26 12:05:27,834 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:05:27,834 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:22:32,652 [MainThread  ] [INFO ]  App ready
+
+2018-07-26 12:22:32,663 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:22:32,663 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:22:33,075 [MainThread  ] [INFO ]  App ready
+
+2018-07-26 12:22:33,075 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:22:33,075 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:22:54,574 [MainThread  ] [INFO ]  App ready
+
+2018-07-26 12:22:54,574 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:22:54,574 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:22:54,993 [MainThread  ] [INFO ]  App ready
+
+2018-07-26 12:22:54,993 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:22:54,994 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:27:26,281 [MainThread  ] [INFO ]  App ready
+
+2018-07-26 12:27:26,281 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:27:26,281 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:27:26,698 [MainThread  ] [INFO ]  App ready
+
+2018-07-26 12:27:26,698 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:27:26,698 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:31:48,108 [MainThread  ] [INFO ]  App ready
+
+2018-07-26 12:31:48,108 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:31:48,108 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:31:48,933 [MainThread  ] [INFO ]  Created chatbot database
+2018-07-26 12:31:48,944 [MainThread  ] [INFO ]  Training small talk
+2018-07-26 12:45:01,858 [MainThread  ] [INFO ]  App ready
+
+2018-07-26 12:45:01,859 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:45:01,859 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 12:45:02,265 [MainThread  ] [INFO ]  Created chatbot database
+2018-07-26 12:45:02,268 [MainThread  ] [INFO ]  Training small talk
+2018-07-26 13:00:21,489 [Thread-1    ] [WARNI]  Not Found: /
+2018-07-26 13:00:21,602 [Thread-3    ] [WARNI]  Not Found: /favicon.ico
+2018-07-26 13:00:34,298 [Thread-4    ] [WARNI]  Not Found: /hello
+2018-07-26 13:01:12,436 [Thread-8    ] [WARNI]  Not Found: /hello
+2018-07-26 13:03:40,611 [MainThread  ] [INFO ]  App ready
+
+2018-07-26 13:03:40,611 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 13:03:40,612 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 13:03:41,045 [MainThread  ] [INFO ]  Created chatbot database
+2018-07-26 13:03:41,049 [MainThread  ] [INFO ]  Training small talk
+2018-07-26 13:17:01,235 [MainThread  ] [INFO ]  App ready
+
+2018-07-26 13:17:01,235 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 13:17:01,235 [MainThread  ] [INFO ]  Training smalltalk in app start up
+2018-07-26 13:17:01,660 [MainThread  ] [INFO ]  Created chatbot database
+2018-07-26 13:17:01,664 [MainThread  ] [INFO ]  Training small talk
+2018-07-26 13:35:37,084 [Thread-3    ] [INFO ]  User input -->hi
+2018-07-26 13:35:37,084 [Thread-3    ] [INFO ]  Smalltalk input : hi
+2018-07-26 13:35:37,304 [Thread-3    ] [INFO ]  Received input statement: hi
+2018-07-26 13:35:37,310 [Thread-3    ] [INFO ]  "hi" is a known statement
+2018-07-26 13:35:39,355 [Thread-3    ] [INFO ]  Using "hi" as a close match to "hi"
+2018-07-26 13:35:39,365 [Thread-3    ] [INFO ]  Selecting response from 4 optimal responses.
+2018-07-26 13:35:39,366 [Thread-3    ] [INFO ]  Selecting a response from list of 4 options.
+2018-07-26 13:35:39,366 [Thread-3    ] [INFO ]  Response selected. Using "Howdy."
+2018-07-26 13:35:39,366 [Thread-3    ] [INFO ]  BestMatch selected "Howdy." as a response with a confidence of 1.0
+2018-07-26 13:35:41,317 [Thread-3    ] [INFO ]  Selecting first response from list of 1 options.
+2018-07-26 13:35:41,318 [Thread-3    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-07-26 13:35:41,321 [Thread-3    ] [INFO ]  NoKnowledgeAdapter selected "hi" as a response with a confidence of 0
+2018-07-26 13:35:41,329 [Thread-3    ] [INFO ]  Smalltalk response : Howdy.
+2018-07-26 13:35:41,329 [Thread-3    ] [INFO ]  
+Response time --->4.24467921257019
+2018-07-26 13:35:41,329 [Thread-3    ] [INFO ]  Howdy.
+2018-07-26 13:45:33,364 [Thread-5    ] [INFO ]  User input -->how are you doing today
+2018-07-26 13:45:33,364 [Thread-5    ] [INFO ]  Smalltalk input : how are you doing today
+2018-07-26 13:45:33,365 [Thread-5    ] [INFO ]  Received input statement: how are you doing today
+2018-07-26 13:45:33,374 [Thread-5    ] [INFO ]  "how are you doing today" is not a known statement
+2018-07-26 13:45:35,514 [Thread-5    ] [INFO ]  Using "how are you doing today" as a close match to "how are you doing"
+2018-07-26 13:45:35,525 [Thread-5    ] [INFO ]  Selecting response from 3 optimal responses.
+2018-07-26 13:45:35,525 [Thread-5    ] [INFO ]  Selecting a response from list of 3 options.
+2018-07-26 13:45:35,525 [Thread-5    ] [INFO ]  Response selected. Using "Lovely, thanks."
+2018-07-26 13:45:35,525 [Thread-5    ] [INFO ]  BestMatch selected "Lovely, thanks." as a response with a confidence of 0.85
+2018-07-26 13:45:37,690 [Thread-5    ] [INFO ]  Selecting first response from list of 1 options.
+2018-07-26 13:45:37,691 [Thread-5    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-07-26 13:45:37,694 [Thread-5    ] [INFO ]  NoKnowledgeAdapter selected "how are you doing today" as a response with a confidence of 0
+2018-07-26 13:45:37,701 [Thread-5    ] [INFO ]  Smalltalk response : Lovely, thanks.
+2018-07-26 13:45:37,701 [Thread-5    ] [INFO ]  
+Response time --->4.336700201034546
+2018-07-26 13:45:37,701 [Thread-5    ] [INFO ]  Lovely, thanks.
+2018-07-26 13:45:52,392 [Thread-7    ] [INFO ]  User input -->hey there
+2018-07-26 13:45:52,392 [Thread-7    ] [INFO ]  Smalltalk input : hey there
+2018-07-26 13:45:52,392 [Thread-7    ] [INFO ]  Received input statement: hey there
+2018-07-26 13:45:52,401 [Thread-7    ] [INFO ]  "hey there" is a known statement
+2018-07-26 13:45:54,472 [Thread-7    ] [INFO ]  Using "hey there" as a close match to "hey there"
+2018-07-26 13:45:54,492 [Thread-7    ] [INFO ]  Selecting response from 4 optimal responses.
+2018-07-26 13:45:54,492 [Thread-7    ] [INFO ]  Selecting a response from list of 4 options.
+2018-07-26 13:45:54,493 [Thread-7    ] [INFO ]  Response selected. Using "Hi there, friend!"
+2018-07-26 13:45:54,493 [Thread-7    ] [INFO ]  BestMatch selected "Hi there, friend!" as a response with a confidence of 1.0
+2018-07-26 13:45:56,490 [Thread-7    ] [INFO ]  Selecting first response from list of 1 options.
+2018-07-26 13:45:56,491 [Thread-7    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-07-26 13:45:56,494 [Thread-7    ] [INFO ]  NoKnowledgeAdapter selected "hey there" as a response with a confidence of 0
+2018-07-26 13:45:56,502 [Thread-7    ] [INFO ]  Smalltalk response : Hi there, friend!
+2018-07-26 13:45:56,502 [Thread-7    ] [INFO ]  
+Response time --->4.109857797622681
+2018-07-26 13:45:56,502 [Thread-7    ] [INFO ]  Hi there, friend!
+2018-07-26 14:50:06,867 [Thread-8    ] [INFO ]  User input -->do i know you
+2018-07-26 14:50:06,867 [Thread-8    ] [INFO ]  Smalltalk input : do i know you
+2018-07-26 14:50:06,869 [Thread-8    ] [INFO ]  Received input statement: do i know you
+2018-07-26 14:50:06,878 [Thread-8    ] [INFO ]  "do i know you" is not a known statement
+2018-07-26 14:50:08,967 [Thread-8    ] [INFO ]  Using "do i know you" as a close match to "I do like you"
+2018-07-26 14:50:08,989 [Thread-8    ] [INFO ]  Selecting response from 4 optimal responses.
+2018-07-26 14:50:08,989 [Thread-8    ] [INFO ]  Selecting a response from list of 4 options.
+2018-07-26 14:50:08,989 [Thread-8    ] [INFO ]  Response selected. Using "I like you too."
+2018-07-26 14:50:08,989 [Thread-8    ] [INFO ]  BestMatch selected "I like you too." as a response with a confidence of 0.69
+2018-07-26 14:50:10,948 [Thread-8    ] [INFO ]  Selecting first response from list of 1 options.
+2018-07-26 14:50:10,948 [Thread-8    ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 1
+2018-07-26 14:50:10,953 [Thread-8    ] [INFO ]  NoKnowledgeAdapter selected "do i know you" as a response with a confidence of 0
+2018-07-26 14:50:10,960 [Thread-8    ] [INFO ]  Smalltalk response : I am sorry, but I do not understand.
+2018-07-26 14:50:10,960 [Thread-8    ] [INFO ]  
+Response time --->4.090946197509766
+2018-07-26 14:50:10,960 [Thread-8    ] [INFO ]  I am sorry, but I do not understand.
+2018-07-26 14:50:31,613 [Thread-11   ] [INFO ]  User input -->what's your name
+2018-07-26 14:50:31,613 [Thread-11   ] [INFO ]  Smalltalk input : what's your name
+2018-07-26 14:50:31,613 [Thread-11   ] [INFO ]  Received input statement: what s your name
+2018-07-26 14:50:31,621 [Thread-11   ] [INFO ]  "what s your name" is not a known statement
+2018-07-26 14:50:33,668 [Thread-11   ] [INFO ]  Using "what s your name" as a close match to "what's your age"
+2018-07-26 14:50:33,675 [Thread-11   ] [INFO ]  Selecting response from 1 optimal responses.
+2018-07-26 14:50:33,675 [Thread-11   ] [INFO ]  Selecting a response from list of 1 options.
+2018-07-26 14:50:33,675 [Thread-11   ] [INFO ]  Response selected. Using "Not too old, but wise beyond my age."
+2018-07-26 14:50:33,675 [Thread-11   ] [INFO ]  BestMatch selected "Not too old, but wise beyond my age." as a response with a confidence of 0.84
+2018-07-26 14:50:35,643 [Thread-11   ] [INFO ]  Selecting first response from list of 1 options.
+2018-07-26 14:50:35,643 [Thread-11   ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 1
+2018-07-26 14:50:35,646 [Thread-11   ] [INFO ]  NoKnowledgeAdapter selected "what s your name" as a response with a confidence of 0
+2018-07-26 14:50:35,652 [Thread-11   ] [INFO ]  Smalltalk response : I am sorry, but I do not understand.
+2018-07-26 14:50:35,652 [Thread-11   ] [INFO ]  
+Response time --->4.038636684417725
+2018-07-26 14:50:35,652 [Thread-11   ] [INFO ]  I am sorry, but I do not understand.
+2018-07-26 14:51:12,180 [Thread-13   ] [INFO ]  User input -->can you help me
+2018-07-26 14:51:12,181 [Thread-13   ] [INFO ]  Smalltalk input : can you help me
+2018-07-26 14:51:12,181 [Thread-13   ] [INFO ]  Received input statement: can you help me
+2018-07-26 14:51:12,186 [Thread-13   ] [INFO ]  "can you help me" is not a known statement
+2018-07-26 14:51:14,229 [Thread-13   ] [INFO ]  Using "can you help me" as a close match to "can you answer me"
+2018-07-26 14:51:14,236 [Thread-13   ] [INFO ]  Selecting response from 1 optimal responses.
+2018-07-26 14:51:14,236 [Thread-13   ] [INFO ]  Selecting a response from list of 1 options.
+2018-07-26 14:51:14,236 [Thread-13   ] [INFO ]  Response selected. Using "Can you try asking it in a different way?"
+2018-07-26 14:51:14,236 [Thread-13   ] [INFO ]  BestMatch selected "Can you try asking it in a different way?" as a response with a confidence of 0.75
+2018-07-26 14:51:16,230 [Thread-13   ] [INFO ]  Selecting first response from list of 1 options.
+2018-07-26 14:51:16,230 [Thread-13   ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 1
+2018-07-26 14:51:16,234 [Thread-13   ] [INFO ]  NoKnowledgeAdapter selected "can you help me" as a response with a confidence of 0
+2018-07-26 14:51:16,240 [Thread-13   ] [INFO ]  Smalltalk response : I am sorry, but I do not understand.
+2018-07-26 14:51:16,240 [Thread-13   ] [INFO ]  
+Response time --->4.058999538421631
+2018-07-26 14:51:16,240 [Thread-13   ] [INFO ]  I am sorry, but I do not understand.
+2018-07-26 14:52:31,333 [Thread-15   ] [INFO ]  User input -->how old are you
+2018-07-26 14:52:31,334 [Thread-15   ] [INFO ]  Smalltalk input : how old are you
+2018-07-26 14:52:31,334 [Thread-15   ] [INFO ]  Received input statement: how old are you
+2018-07-26 14:52:31,341 [Thread-15   ] [INFO ]  "how old are you" is a known statement
+2018-07-26 14:52:33,392 [Thread-15   ] [INFO ]  Using "how old are you" as a close match to "how old are you"
+2018-07-26 14:52:33,398 [Thread-15   ] [INFO ]  Selecting response from 1 optimal responses.
+2018-07-26 14:52:33,398 [Thread-15   ] [INFO ]  Selecting a response from list of 1 options.
+2018-07-26 14:52:33,399 [Thread-15   ] [INFO ]  Response selected. Using "Not too old, but wise beyond my age."
+2018-07-26 14:52:33,399 [Thread-15   ] [INFO ]  BestMatch selected "Not too old, but wise beyond my age." as a response with a confidence of 1.0
+2018-07-26 14:52:35,470 [Thread-15   ] [INFO ]  Selecting first response from list of 1 options.
+2018-07-26 14:52:35,470 [Thread-15   ] [INFO ]  LowConfidenceAdapter selected "I am sorry, but I do not understand." as a response with a confidence of 0
+2018-07-26 14:52:35,473 [Thread-15   ] [INFO ]  NoKnowledgeAdapter selected "how old are you" as a response with a confidence of 0
+2018-07-26 14:52:35,484 [Thread-15   ] [INFO ]  Smalltalk response : Not too old, but wise beyond my age.
+2018-07-26 14:52:35,484 [Thread-15   ] [INFO ]  
+Response time --->4.15053129196167
+2018-07-26 14:52:35,485 [Thread-15   ] [INFO ]  Not too old, but wise beyond my age.
